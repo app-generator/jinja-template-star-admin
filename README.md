@@ -16,8 +16,8 @@
 
 > Used by
 
-- [Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - LIVE Demo
-- [Django Dashboard - Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) - LIVE Demo
+- [Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - Free admin dashboard 
+- [Django Dashboard - Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) - Free admin dashboard 
 
 <br />
 
