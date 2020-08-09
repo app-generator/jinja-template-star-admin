@@ -14,6 +14,13 @@
 
 <br />
 
+> Used by
+
+- [Flask Dashboard - Star Admin](https://appseed.us/admin-dashboards/flask-dashboard-staradmin) - LIVE Demo
+- [Django Dashboard - Star Admin](https://appseed.us/admin-dashboards/django-dashboard-staradmin) - LIVE Demo
+
+<br />
+
 ## UI Kit - [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
 
 *Vendor Notes* - Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
