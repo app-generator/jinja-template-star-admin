@@ -14,7 +14,7 @@
 
 <br />
 
-## UI Kit - Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
+## UI Kit - [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
 
 *Vendor Notes* - Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
 
@@ -25,7 +25,7 @@
 
 <br />
 
-![Jinja Template Star Admin - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Template Star Admin - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-star-admin/master/media/jinja-template-star-admin-screen.png)
 
 <br />
 
