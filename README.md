@@ -1,8 +1,8 @@
-# [Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/)
+# [Jinja Template](https://github.com/app-generator/jinja-template) - [Star Admin](https://appseed.us/star-admin)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Star Admin** (Free Version) by **BootstrapDash**
+- UI Kit: **[Star Admin](https://appseed.us/star-admin)** (Free Version) by **[BootstrapDash](https://appseed.us/agency/bootstrapdash)**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -15,14 +15,9 @@
 
 <br />
 
-## UI Kit - [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
+## UI Kit - [Star Admin](https://appseed.us/star-admin)
 
-*Vendor Notes* - Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
-
-> Links
-
-- [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23) - product page
-- [Star Admin Demo](https://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html)
+*Vendor Notes* - [Star Admin](https://appseed.us/star-admin) is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
 
 <br />
 
@@ -187,4 +182,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://github.com/app-generator/jinja-template) - [Star Admin](https://appseed.us/star-admin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
